@@ -1,52 +1,6 @@
 #EXTM3U
 
 #Sports
-#EXTINF:-1,UNIVISION
-http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONEAST&calidad=sd&.m3u8
-#EXTINF:-1,group-title="Bics DEPORTES", Fox Deportes
-https://apollo.production-public.tubi.io/live/fox-sports-espanol.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: ESPN
-http://tvmate.icu:8080/live/7686199/9576982/14197.m3u8
-#EXTINF:-1 group-title="Bics US", US: UNIVISION
-http://tvmate.icu:8080/live/7686199/9576982/15336.m3u8
-#EXTINF:-1 group-title="Bics US", US: PARAMOUNT NETWORK
-http://hardcoremedia.xyz/live/6FyrkGbRP/D4Q4pk3k8u/129938.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: ESPN 2
-http://fl2.moveonjoy.com/ESPN_2/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: ESPN 2
-http://fl5.moveonjoy.com/ESPN_2/index.m3u8
-
-#EXTINF:-1 group-title="Bics DEPORTES", US: FS 1
-http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
-
-
-#EXTINF:-1 group-title="Bics DEPORTES", US: YES NETWORK
-http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
-
-
-#EXTINF:-1 group-title="Bics DEPORTES", TUDN US
-https://cXVpY2s.la10tv.com:443/lb/tudn/index.m3u8?token=fc3bba5d3f5660fceda47ec7c00fb2a9fba4ce67-69-1733666943-1733630943
-
-#EXTINF:-1 group-title="Bics US", US: TELEMUNDO INTERNACIONAL
-http://directo.ddns.me:33200/live/restreamtvplux/Mhsi3wMSJSEjska343255/55148.ts
-#EXTINF:-1 group-title="Bics US", US: TELEMUNDO
-http://directo.ddns.me:33200/live/restreamtvplux/Mhsi3wMSJSEjska343255/55146.ts
-
-#EXTINF:-1 group-title="Bics DEPORTES", ESPN (argentina)
-https://YXdlc29tZQ.la10tv.com:443/lb/espn/index.m3u8?token=aa7dcc4f9a8205e52a3fc71b73bd347e4636020e-f2-1733667103-1733631103
-#EXTINF:-1 group-title="Bics DEPORTES", ESPN 2 (argentina)
-http://fastream.xyz:8080/novacon79/5544545/507
-#EXTINF:-1 group-title="Bics DEPORTES", ESPN 3 (argentina)
-http://tv.iprotv.live/live/ProYeCtoX998/NuevaProyectoRw/94807.ts
-#EXTINF:-1 group-title="Bics DEPORTES", ESPN PREMIUM (argentina)
-http://ultrapremium.cloud:8080/live/999833692tv/9M206UbCp/542.ts
-#EXTINF:-1 group-title="Bics DEPORTES", FOX SPORTS (argentina)
-http://84423.xyz:8000/live/elmoncho5/4DM8JP0UGJ/132268.ts
-#EXTINF:-1 group-title="Bics DEPORTES", FOX SPORTS 2 (argentina)
-http://265843806419935281.ofdos.xyz:80/play/EDJUPGSA4C/0869008345/935281.ts
-#EXTINF:-1 group-title="Bics DEPORTES", FOX SPORTS 3 (argentina)
-http://84423.xyz:8000/live/elmoncho5/4DM8JP0UGJ/3041.ts
-
 #EXTINF:-1 group-title="Bics Latino", PR: TELEMUNDO
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
